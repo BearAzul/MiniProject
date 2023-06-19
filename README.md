@@ -1,4 +1,4 @@
-## Mini Project 1
+## Mini Project
 <table>
   <tr>
     <td>Nama</td>
@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-### Tanggal, 19 Juni 2023
+### Tanggal, 19 Juni 2023 - MiniProject 1
 ===========================================
 - Menambahkan File Python Google Colab dan retail_raw_reduced.csv
 - Untuk mengaskses gunakan file retail_raw_reduced.csv 
