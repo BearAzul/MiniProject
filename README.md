@@ -1,4 +1,4 @@
-## Mini Project 1 - UAS Komputer Grafis
+## Mini Project 1
 <table>
   <tr>
     <td>Nama</td>
